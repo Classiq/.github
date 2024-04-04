@@ -1,12 +1,22 @@
-## Hi there 👋
+## Welcome to Classiq 👋👋
 
-<!--
+Classiq allows you to design, optimize, analyze, and execute any quantum program. 
 
-**Here are some ideas to get you started:**
+# 🙋‍♀️ Steps to get started:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. ⚛️ Sign up: 
+    - IDE: Just head over to [Classiq's platform](https://platform.classiq.io/)
+    - Python SDK:
+    ```bash
+    pip install classiq
+    ```
+    ```bash
+    import classiq
+    classiq.authenticate()
+    ```
+
+    - Second nested item
+        - Further nested item
+2. 👋 Join our Classiq <a href="https://short.classiq.io/join-slack">Slack</a> community, where you can chat with the community and also ask any questions
+3. 📖 Learn more about Classiq in our <a href="https://docs.classiq.io/latest/user-guide/">Documentation</a>
+4. 📚👩🏻‍💻 Check out our open <a href="https://docs.classiq.io/latest/user-guide/">Library</a>, with the largest collection of quantum applications, algorithms, functions, and tutorials. It's the best way to get started. Contributions are welcome 🚀
